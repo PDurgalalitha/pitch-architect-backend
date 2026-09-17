@@ -1,0 +1,7 @@
+.env
+.env.local
+*.pem
+gcp-key.json
+*.json
+venv/
+--pycache__/

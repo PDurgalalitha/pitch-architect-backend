@@ -1,0 +1,15 @@
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+google-cloud-storage>=2.10.0
+google-cloud-firestore>=2.11.0
+google-cloud-aiplatform>=1.38.0
+vertexai>=1.38.0
+pymupdf>=1.23.0
+python-multipart>=0.0.6
+google-auth>=2.22.0
+reportlab>=4.0.0
+python-dotenv>=1.0.0
+python-pptx>=0.6.21
+requests>=2.31.0
+pillow>=10.0.0
